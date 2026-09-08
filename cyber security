@@ -1,0 +1,7 @@
+// Every Java program must be defined inside a class
+public class Main {
+    // The main method is the starting point of any Java application
+    public static void main(String[] args)
+        System.out.println("Hello, World!")
+    }
+}
